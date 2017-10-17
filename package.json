@@ -1,0 +1,17 @@
+{
+  "name": "eth-contract-dev-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adrianmcli/eth-contract-dev-tutorial.git",
+  "author": "Adrian Li <li.adrianmc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "web3": "^1.0.0-beta.23"
+  },
+  "devDependencies": {
+    "truffle": "^3.4.11"
+  }
+}
